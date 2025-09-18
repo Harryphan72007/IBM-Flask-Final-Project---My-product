@@ -1,8 +1,8 @@
-Repository for Final Project
+Repository for Final Project - Clone from https://github.com/ibm-developer-skills-network/oaqjp-final-project-emb-ai
 Emotion Detection Web Application
 Introduction
 
-Welcome to my final project for this course! This project demonstrates my skills in application development and web deployment. I created an emotion detection web application using the Watson NLP library and deployed it with Flask. The project also includes packaging, testing, error handling, and static code analysis to ensure robustness and quality.
+Welcome to my final project for this course! This project demonstrates my skills in application development and web deployment. I created an emotion detection web application using the Watson NLP library and deployed it with Flask. The project also includes packaging, testing, error handling, and static code analysis to ensure robustness and quality. 
 
 Emotion Detection
 
